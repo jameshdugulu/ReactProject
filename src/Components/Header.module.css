@@ -4,8 +4,7 @@ header{
     justify-content: end;
     align-items: center;
     padding: 10px 20px;
-    background-color: #333;
-    color: white;
+    background-color: rgb(146, 103, 39);
     position: fixed;
     right: 0;
     left: 0;

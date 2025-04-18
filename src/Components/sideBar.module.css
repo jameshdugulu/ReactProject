@@ -1,6 +1,16 @@
 
 .sideBar{
-  background-color: black;
-  height: 1000px;
-  width: 200px;
+  background-color:  rgb(55, 23, 7);
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin: 5%;
+  padding: 3vh;
+  border-radius: 20px;
+}
+
+.sideBar > a{
+  color: white;
+  margin: 0.5rem;
+  font-size: 1.2rem;
 }

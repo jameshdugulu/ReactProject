@@ -1,5 +1,5 @@
 
-import Style from '../sideBar.module.css';
+import Style from './sideBar.module.css';
 
 function SideBar() {
     return (
